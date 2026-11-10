@@ -50,7 +50,7 @@ pages.
 ## Get it
 
 In Craft, install Localize from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/LocalizeAgent.git`, then say `$localize` in a request.
+`craft agents add https://github.com/rao-craft/LocalizeAgent.git`, then say `$localize` in a request.
 
 ## Requirements
 

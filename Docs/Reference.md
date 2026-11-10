@@ -14,7 +14,7 @@ let localizeRecord: GraniteRoster.Record = { GraniteRoster.record(LocalizeAgent.
 ```
 
 In [Craft](https://github.com/riteshpakala/Craft), install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/LocalizeAgent.git`, then say `$localize` in a request:
+`craft agents add https://github.com/rao-craft/LocalizeAgent.git`, then say `$localize` in a request:
 
 ```
 $localize the recipe app into French, German, Japanese and Arabic
